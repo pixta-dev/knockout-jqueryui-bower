@@ -1,0 +1,32 @@
+{
+  "name": "knockout-jqueryui",
+  "version": "2.0.1",
+  "homepage": "https://github.com/gvas/knockout-jqueryui",
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "knockout",
+    "knockoutjs"
+  ],
+  "main": [
+    "knockout-jqueryui.js",
+    "knockout-jqueryui.min.js",
+    "knockout-jqueryui-amd.zip"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "2.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.1",
+    "commit": "9c7a568b6ae280b5ed064b0ff7ef4f9dc0e3a6df"
+  },
+  "_source": "https://github.com/jrcamp/knockout-jqueryui-bower.git",
+  "_target": "2.0.1"
+}
